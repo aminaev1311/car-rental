@@ -1,0 +1,11 @@
+.car-category-list {
+    border: 1px dashed;
+    padding: 16px;
+  }
+
+  .car-category-list-title {
+    font-weight: bolder;
+    margin-bottom: 10px;
+    /* text-align: center; */
+  }
+  
