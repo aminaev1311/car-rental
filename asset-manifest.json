@@ -9,7 +9,7 @@
     "787.e778e39e.chunk.js.map": "car-rental/static/js/787.e778e39e.chunk.js.map"
   },
   "entrypoints": [
-    "car-rentalstatic/css/main.ced4c135.css",
-    "car-rentalstatic/js/main.f62e4b5e.js"
+    "car-rental/static/css/main.ced4c135.css",
+    "car-rental/static/js/main.f62e4b5e.js"
   ]
 }
