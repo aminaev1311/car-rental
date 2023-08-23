@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "car-rental/",
+  "start_url": "car-rental",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
